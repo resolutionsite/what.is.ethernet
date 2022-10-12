@@ -1,7 +1,7 @@
 # What is ethernet?
 
 
-[![what is ethernet](redd.png)](https://github.com/resolutionsite/what.is.ethernet)
+[![what is ethernet](redd.png)](https://icncomputer.com/what-is-ethernet/)
 
 Ethernet is a traditional technology used to connect devices in a wired local area network (LAN) or wide area network (WAN), enabling them to communicate with each other through a protocol (a set of rules or a common network language).
 
